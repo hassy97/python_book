@@ -15,8 +15,9 @@ if x%2 == 0 and y%2 == 0 and z%2 == 0:
 else:
     #  case 111
     if x%2 == 1 and y%2 == 1 and z%2 == 1:
-        print(("X =",x ,"Y = ",y, "and Z = ",z ,"all numbers are odd")
-        if x > y and x > z:
+        print("X =",x ,"Y = ",y, "and Z = ",z ,"all numbers are odd")
+        if x > y and x > z :
+            print()
             print("X is the greatest odd number")
         elif y > z:
             print ("y is the greatest odd among all the numbers")
@@ -24,7 +25,7 @@ else:
             print ("z is the greatest odd number")
       #  case 000
     elif x%2 == 0 and y%2 == 0 and z%2 == 0:
-        print(("X =",x ,"Y = ",y, "and Z = ",z ,"all numbers are even")
+        print("X =",x ,"Y = ",y, "and Z = ",z ,"all numbers are even")
         if x > y and x > z:
             print("X is the greatest odd number")
         elif y > z:
