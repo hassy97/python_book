@@ -1,7 +1,7 @@
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer 
 
-''' how to strcture the textful data into the 
+''' how to structure the textful data into the 
     rows colum for the future machine learning
     models predictions'''
 
