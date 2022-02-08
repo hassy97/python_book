@@ -1,0 +1,6 @@
+milk bread bread bread: grocery
+bread milk milk bottle :grocery
+tin bread milk bread milk:grocery
+cat mew mew dogs bark bark:pets
+dog bark bark cat mew mew :pets
+cat mew dog bark cat mew :pets
